@@ -12,7 +12,7 @@ const leche = new Productos ("Leche",120);
 const lentejas = new Productos ("Lentejas",180);
 
 let arrayProductos = [arroz,papitas,alfajor,pochoclos,leche,lentejas]
-saldo = 1000
+let saldo = 1000
 
 let arrayOpciones = [arroz.precio + "$ Arroz\n", papitas.precio + "$ Papitas \n", alfajor.precio + "$ Alfajor \n", pochoclos.precio + "$ Pochoclos \n", leche.precio + "$ Leche\n", lentejas.precio + "$ Lentejas"]
 
